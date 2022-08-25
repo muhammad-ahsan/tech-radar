@@ -89,6 +89,14 @@ yarn start
 http://localhost:3000/
 ```
 
+
+## Docker Commands
+
+docker build -t tech-radar .
+
+docker run -p 3000:3000 tech-radar
+
+
 ## License
 
 ```
